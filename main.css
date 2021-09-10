@@ -1,0 +1,32 @@
+.ispy{
+    background-image:url("/Assignments/CSSCheckup/I-Spy.jpg");
+}
+
+.wrapper{
+    margin: 5px; background-color: lightblue; font-size: 50px;font-family: Georgia, 'Times New Roman', Times, serif ; font-weight: bold; text-align: center;}
+
+#wumbo{
+    color: burlywood;
+}
+
+.margins-padding{
+    border:2px solid tan;
+    margin-top: 50px;
+    margin-right: 300px;
+    margin-bottom: 200px;
+    margin-left: 300px;
+    padding: 40px 40px 40px 40px;
+}
+#Chart1{
+    height: 40px;
+    background: lightcoral;
+    border: 7px solid silver;
+    margin: 20px 40px 20px 40px;
+}
+#Chart2{
+    height: 20px;
+    background: silver;
+    border: 7px solid lightcoral;
+    margin: 40px 20px 40px 20px;
+}
+

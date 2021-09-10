@@ -1,7 +1,3 @@
-.ispy{
-    background-image:url("/Assignments/CSSCheckup/I-Spy.jpg");
-}
-
 .wrapper{
     margin: 5px; background-color: lightblue; font-size: 50px;font-family: Georgia, 'Times New Roman', Times, serif ; font-weight: bold; text-align: center;}
 
@@ -30,3 +26,13 @@
     margin: 40px 20px 40px 20px;
 }
 
+.Box{
+    height: 150px;
+    width: 275px;
+    background-color: chocolate; 
+    position: fixed;
+    top: 150px;
+    left: 0px;
+    font-size: 25px;
+    border-style: groove;
+}
